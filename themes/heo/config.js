@@ -20,9 +20,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享技术',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'BLOG.POWS.TOP',
-  HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '',
-  HEO_HERO_TITLE_LINK: '',
+  HEO_HERO_TITLE_4: '灵引的博客',
+  HEO_HERO_TITLE_5: 'Top of the Powers',
+  HEO_HERO_TITLE_LINK: 'https://blog.pows.top/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -50,8 +50,8 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://github.com/lyncmdos',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  //HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  //HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_URL3: 'https://blog.pows.top/',
+  HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
